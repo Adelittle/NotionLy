@@ -1,4 +1,4 @@
-# ⚡ NotionLy Go
+# ⚡ NotionLy Go | under maintenance | Have LFI Vulnerability
 
 Aplikasi web ultra-ringan berbasis **Go (Golang)** untuk berbagi catatan secara real-time (collaborative note) dan berbagi file hingga **5 GB** per room.
 
